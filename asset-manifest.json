@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RitikaV29/TextUtils/static/css/main.f855e6bc.css",
+    "main.js": "/RitikaV29/TextUtils/static/js/main.e2a38848.js",
+    "static/js/453.171ddc7f.chunk.js": "/RitikaV29/TextUtils/static/js/453.171ddc7f.chunk.js",
+    "index.html": "/RitikaV29/TextUtils/index.html",
+    "main.f855e6bc.css.map": "/RitikaV29/TextUtils/static/css/main.f855e6bc.css.map",
+    "main.e2a38848.js.map": "/RitikaV29/TextUtils/static/js/main.e2a38848.js.map",
+    "453.171ddc7f.chunk.js.map": "/RitikaV29/TextUtils/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e2a38848.js"
+  ]
+}
